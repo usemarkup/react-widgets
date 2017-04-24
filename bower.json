@@ -29,7 +29,6 @@
     "test",
     "docs",
     "example",
-    "lib",
     "vendor",
     ".bowerrc",
     ".gitignore",
